@@ -1,6 +1,6 @@
 Codes to accompany "Analysis of pandemic closing-reopening cycles using rigorous homotopy continuation".
 
-File: codes_SIR_homotopy.zip
+File: codes_SIR_homotopy.zip (single zip file to facilitate downloading by interestedd parties)
 
 Contents: 
  - MATLAB function files necessary to run proofs, as well as some double arithmetic versions
