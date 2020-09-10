@@ -5,4 +5,4 @@ File: codes_SIR_homotopy.zip
 Contents: 
  - MATLAB function files necessary to run proofs, as well as some double arithmetic versions
  - Script to prove the homotopy continuation from Theorem 12 (proof_cycle.m)
- - Script to prove and generate the table and overshooting time from Theorem (proof_table.m)
+ - Script to prove and generate the table and overshooting time from Theorem 12 (proof_table.m)
